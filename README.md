@@ -11,7 +11,9 @@ When adding a account to the database the table will look like this
 ```
 
  id = for every account that gets added it will automatically increment the id by + 1.
+ 
  email = When the email is entered it will hash the email and store it in the row/table to protect against data-breaches.
+ 
  password = When the password is entered it will hash the password and store it in the row/table to protect against data-breaches.
  
  This has been made as a simple base for those who would like to learn off a simple program and implement it towards their own code/program.
