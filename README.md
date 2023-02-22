@@ -2,10 +2,6 @@ Simple base for MySQL to use and implement in your code towards your likings.
 
 When adding a account to the database the table will look like this
 
-
-
-
-
 ```sql
 +----+------------------------------------------------------------------+----------+------------------------------------------------------------------+
 | id | email                                                            | username | password                                                         |
@@ -13,10 +9,6 @@ When adding a account to the database the table will look like this
 |  1 | b526b164bb1971ee9d90e000a0b16e4f2207921e0a3ea99a4a9df831f398c022 | xHookah  | 284d96fc795db926af662fde7c9b871009fd828877132899a16107fcc55a2624 |
 +----+------------------------------------------------------------------+----------+------------------------------------------------------------------+
 ```
-
-
-
-
 
  id = for every account that gets added it will automatically increment the id by + 1.
  
