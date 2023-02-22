@@ -2,7 +2,7 @@ Simple base for MySQL to use and implement in your code towards your likings.
 
 When adding a account to the database the table will look like this
 
-```sql
+```mysql
 +----+------------------------------------------------------------------+----------+------------------------------------------------------------------+
 | id | email                                                            | username | password                                                         |
 +----+------------------------------------------------------------------+----------+------------------------------------------------------------------+
